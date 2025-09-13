@@ -1,7 +1,7 @@
 # Alzheimers-disease-detection-
 Deep learning project for detection of Alzheimer's disease based on 4 classes using MRI Scans using CNN
 The dataset used in the project is from kaggle.
-Dataset link: https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images
+Dataset link: [https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images](https://www.kaggle.com/datasets/preetpalsingh25/alzheimers-dataset-4-class-of-images)
 
 I have built a cnn model to detect the presence of dementia in a patient's MRI Scans. The accuracy the model achieved was 93.75% and data loss was seen to be 22.17%
 
